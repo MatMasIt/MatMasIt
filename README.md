@@ -1,4 +1,12 @@
 # 👋 Hello, I'm Matt
+
+|||
+|---|---|
+|Wherest|:it:|
+|Whomst|He/Him|
+|Whyst|Yes|
+
+
 I love coding, poetry and cycling
 
 You can take a look at my projects, they are almost all published as a repo
