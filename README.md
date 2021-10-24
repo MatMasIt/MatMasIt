@@ -19,6 +19,6 @@ You can take a look at my projects, they are almost all published as a repo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatMasIt&repo=Alembic&theme=dark)](https://github.com/MatMasIt/Alembic)
 
-![My langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatMasIt&layout=compact&hide=html&theme=dark)
+![My langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatMasIt&layout=compact&hide=html,css,scss,less&theme=dark)
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MatMasIt)](https://wakatime.com/@MatMasIt)
