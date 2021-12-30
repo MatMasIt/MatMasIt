@@ -1,6 +1,7 @@
 <?php
 $a=file("README.md");
 foreach($a as $line){
+echo $a;
    $q=explode("<!--ageB->",$line);
    echo $q[0];
    if(count($q)==2){
