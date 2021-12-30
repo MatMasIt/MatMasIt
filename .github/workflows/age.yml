@@ -8,7 +8,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: run job
-        run: sudobapt install php && php age.php| tee README.md
+        run: sudo apt install php && php age.php | tee README.md
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
