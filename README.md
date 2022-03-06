@@ -8,7 +8,7 @@
 |Whyst|Yes|
 |Age|<!--ageB-->19|
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MatMasIt?style=social">&nbsp;<a href="https://t.me/matmasak"><img src="https://img.shields.io/badge/@matmasak-Telegram-blue.svg" alt="@matmasak on telegram"></a>&nbsp;<a href="mailto:mattia.mascarello@outlook.it"><img src="https://img.shields.io/badge/mattia.mascarello@outlook.it-Email-red.svg" alt="Email me"></a>
+<a href="https://github.com/MatMasIt?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MatMasIt?style=social"></a>&nbsp;<a href="https://t.me/matmasak"><img src="https://img.shields.io/badge/@matmasak-Telegram-blue.svg" alt="@matmasak on telegram"></a>&nbsp;<a href="mailto:mattia.mascarello@outlook.it"><img src="https://img.shields.io/badge/mattia.mascarello@outlook.it-Email-red.svg" alt="Email me"></a>
 [![wakatime](https://wakatime.com/badge/user/7c734db4-f94f-489c-b05f-61522e01f7fa.svg)](https://wakatime.com/@7c734db4-f94f-489c-b05f-61522e01f7fa)
 
 I love coding, poetry and cycling
