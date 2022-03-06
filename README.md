@@ -4,7 +4,7 @@
 |||
 |---|---|
 |Wherest|:it::eu:|
-|Whomst|He/Him|
+|Whomst|He/Him <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/1200px-Bisexual_Pride_Flag.svg.png"  width="20">|
 |Whyst|Yes|
 |Age|<!--ageB-->19|
 
