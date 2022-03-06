@@ -3,7 +3,7 @@
 
 |||
 |---|---|
-|Wherest|:it:|
+|Wherest|:it::eu:|
 |Whomst|He/Him|
 |Whyst|Yes|
 |Age|<!--ageB-->19|
@@ -13,7 +13,9 @@
 
 I love coding, poetry and cycling
 
-You can take a look at my projects, they are almost all published as a repo
+You can take a look at my projects, they are almost all published as a repo.
+
+All the work I have done for my school's weather station is stored [@StazioneMeteoCocito](https://github.com/StazioneMeteoCocito)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=MatMasIt&show_icons=true&theme=dark)
 
